@@ -1,0 +1,13 @@
+C:\Temp
+C:\Temp\FileInputTestSHORT.txt
+C:\Temp\test with spaces.txt
+C:\Temp\WordDoc.docx
+C:\Temp\Sample.pdf
+C:\Temp\VeryTemp\SuperTemp\Temptastic\WordDoc.docx
+C:\Temp\VeryTemp\SuperTemp\Temptastic\Slideshow.pptx
+C:\Temp\VeryTemp\SuperTemp\Temptastic\Spreadsheet.xlsx
+C:\Users\USERNAME\Documents\Visual Studio 2015\Projects\WebSandbox\WebSandbox.sln
+C:\Users\USERNAME\Dropbox\SomeFolder1
+C:\Users\USERNAME\Dropbox\SomeFolder2
+C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
